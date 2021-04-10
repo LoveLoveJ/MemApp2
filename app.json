@@ -3,6 +3,7 @@
     "name": "MemApp2",
     "slug": "MemApp2",
     "version": "1.0.0",
+    "privacy": "unlisted",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
